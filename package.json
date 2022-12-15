@@ -1,0 +1,15 @@
+{
+  "name": "ml-scrapper",
+  "version": "1.0.0",
+  "description": "Scrap any hero icon available in mobile legends website'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rewtio",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "got-scraping": "^3.2.12"
+  }
+}
